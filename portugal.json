@@ -1,7 +1,13 @@
 {
-  "Name":"Ram Varma",
-  "Enroll_no":"160760120546",
-  "Mobile":"8989898989",
-  "Address":"Sahyog Socirty",
-  "Branch":"EC"
+    "city": "Porto",
+    "bestplaces": [
+        {
+            "name": "STADE DE FOOT",
+            "Description": "Description     "
+        },
+         {
+            "name": "CAVE A VIN",
+            "Description": "Description     "
+        }
+    ]
 }
